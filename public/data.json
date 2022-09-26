@@ -1,0 +1,86 @@
+[
+    {
+      "id": "1",
+      "name": "Lessie Marquez",
+      "color": "brown",
+      "price": 24
+    },
+    {
+      "id": "2",
+      "name": "Simpson Morrison",
+      "color": "blue",
+      "price": 24
+    },
+    {
+      "id": "3",
+      "name": "Nannie Joyce",
+      "color": "blue",
+      "price": 22
+    },
+    {
+      "id": "4",
+      "name": "Hobbs Rowland",
+      "color": "green",
+      "price": 40
+    },
+    {
+      "id": "5",
+      "name": "Harrell Mcfarland",
+      "color": "green",
+      "price": 21
+    },
+    {
+      "id": "6",
+      "name": "Kent Moreno",
+      "color": "blue",
+      "price": 29
+    },
+    {
+      "id": "7",
+      "name": "Conley Gaines",
+      "color": "blue",
+      "price": 27
+    },
+    {
+      "id": "8",
+      "name": "Maria Ferguson",
+      "color": "brown",
+      "price": 33
+    },
+    {
+      "id": "9",
+      "name": "Lilly Petty",
+      "color": "blue",
+      "price": 36
+    },
+    {
+      "id": "10",
+      "name": "Reilly Simon",
+      "color": "green",
+      "price": 32
+    },
+    {
+      "id": "11",
+      "name": "Morgan Boyer",
+      "color": "brown",
+      "price": 38
+    },
+    {
+      "id": "12",
+      "name": "Fischer Guerrero",
+      "color": "brown",
+      "price": 22
+    },
+    {
+      "id": "13",
+      "name": "Anne Lane",
+      "color": "green",
+      "price": 29
+    },
+    {
+      "id": "14",
+      "name": "Lawanda Beasley",
+      "color": "blue",
+      "price": 31
+    }
+  ]
